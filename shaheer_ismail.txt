@@ -1,0 +1,6 @@
+Name: shaheer
+Last Name: ismail
+Email: abc@gmail.com
+Password: shaheer123
+Phone Number: 0310xxxxxx
+Address: abchouseusa
